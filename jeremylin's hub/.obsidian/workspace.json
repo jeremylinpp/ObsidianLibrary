@@ -4,11 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "741be05af85d1b70",
+        "id": "264445593f599e06",
         "type": "tabs",
         "children": [
           {
-            "id": "a406e8ac2017b380",
+            "id": "3085ab49a22b953a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "jeremylin's hub/考公/言语理解-错题分析.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "0571e335ce3650b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,35 +92,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ecb154cf997a38c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "考公/言语理解-错题分析.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "d1766e9fc3078915",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "考公/言语理解-错题分析.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "7e465a288b82d11b",
             "type": "leaf",
             "state": {
@@ -120,7 +103,36 @@
             }
           },
           {
-            "id": "1279691ea87d108a",
+            "id": "5363b2d9086e3c6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考公/言语理解-错题分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ad19934843db447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考公/言语理解-错题分析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ebf6890f7772eba",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,20 +142,27 @@
             }
           },
           {
-            "id": "052c0da65ae6a599",
+            "id": "3bc4b7b35143d9a3",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c790a7ef0ac8ecb",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,16 +175,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a406e8ac2017b380",
+  "active": "3bc4b7b35143d9a3",
   "lastOpenFiles": [
-    "Day planners/Day Planner.md",
+    "考公/言语理解-错题分析.md",
     "2024-08-11.md",
+    "Day planners/Day Planner.md",
     "2024-08-05.md",
     "2024-08-06.md",
     "2024-08-07.md",
     "Day planners/2024-08-07.md",
     "2024-08-08.md",
-    "考公/言语理解-错题分析.md",
     "未命名",
     "Day planners",
     "未命名.canvas",
