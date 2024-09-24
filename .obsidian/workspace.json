@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ffc780d3cd41628f",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26d90b845ceb2716",
+  "active": "c5c6ec73ab3ce59b",
   "lastOpenFiles": [
     "JeremyLin'sHub/未命名.md",
     "JeremyLin'sHub/教务处/学科体系建设.md",
