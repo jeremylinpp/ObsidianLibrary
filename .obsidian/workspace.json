@@ -11,10 +11,14 @@
             "id": "c0df3b009556ff07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JeremyLin'sHub/教务处/学科体系建设.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "学科体系建设"
             }
           }
         ]
@@ -175,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e750004faac3189b",
+  "active": "c0df3b009556ff07",
   "lastOpenFiles": [
     "JeremyLin'sHub/教务处/学科体系建设.md",
     "JeremyLin'sHub/考公/言语.md",
