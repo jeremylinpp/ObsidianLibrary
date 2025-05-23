@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "JeremyLin'sHub/考公/言语.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "言语"
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29fb451d168948c0",
+  "active": "e750004faac3189b",
   "lastOpenFiles": [
     "JeremyLin'sHub/教务处/学科体系建设.md",
     "JeremyLin'sHub/未命名.md",
