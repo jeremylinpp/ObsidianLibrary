@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JeremyLin'sHub/教务处/学科体系建设.md",
+                "file": "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学科体系建设"
+              "title": "AIGC应用实战-提示词工程"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0df3b009556ff07",
+  "active": "e750004faac3189b",
   "lastOpenFiles": [
     "JeremyLin'sHub/教务处/学科体系建设.md",
+    "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
+    "JeremyLin'sHub/教材/人工智能通识教材",
+    "JeremyLin'sHub/教材",
+    "JeremyLin'sHub/考公/未命名",
     "JeremyLin'sHub/考公/言语.md",
     "JeremyLin'sHub/未命名.md",
     "JeremyLin'sHub/教务处",
