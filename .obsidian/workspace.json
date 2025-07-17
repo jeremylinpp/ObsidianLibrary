@@ -11,10 +11,14 @@
             "id": "c0df3b009556ff07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AIGC应用实战-提示词工程"
             }
           }
         ]
@@ -179,14 +183,13 @@
   "active": "548b744adff4bbea",
   "lastOpenFiles": [
     "JeremyLin'sHub/2025年教师岗前培训.md",
-    "conflict-files-obsidian-git.md",
     "JeremyLin'sHub/考公/数量关系.md",
-    "JeremyLin'sHub/运维笔记.md",
-    "JeremyLin'sHub/考公/言语.md",
     "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
+    "JeremyLin'sHub/运维笔记.md",
     "JeremyLin'sHub/教务处/学科体系建设.md",
     "JeremyLin'sHub/教材/人工智能通识教材",
     "JeremyLin'sHub/教材",
+    "JeremyLin'sHub/考公/言语.md",
     "JeremyLin'sHub/教务处",
     "未命名"
   ]
