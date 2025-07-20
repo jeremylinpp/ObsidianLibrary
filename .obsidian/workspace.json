@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "572eb756ecb3b806",
+    "id": "fd8b6bafd5ba97d5",
     "type": "split",
     "children": [
       {
-        "id": "274c841c2116aba3",
+        "id": "392721e28eeac7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "c0df3b009556ff07",
+            "id": "d2955c23708307a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
+                "file": "JeremyLin'sHub/考公/言语.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIGC应用实战-提示词工程"
+              "title": "言语"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6b283f9905ff2260",
+    "id": "6d38d347a12954db",
     "type": "split",
     "children": [
       {
-        "id": "26acc0b9395549df",
+        "id": "90bd41d5957d630b",
         "type": "tabs",
         "children": [
           {
-            "id": "548b744adff4bbea",
+            "id": "969edd7ea469cb35",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c8faf6e3688dbcca",
+            "id": "3a0022fad13cf7e3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0dbfc9b55b290dfa",
+            "id": "c2cbc27ddb87019f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,27 +74,28 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "ffc780d3cd41628f",
+    "id": "16ff682d5b6b05bf",
     "type": "split",
     "children": [
       {
-        "id": "1400bf0aa5c88ee2",
+        "id": "11abb10198ed927c",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e2fd84c14fc7a7",
+            "id": "aabdb44456ee065f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JeremyLin'sHub/考公/言语.md",
+                "file": "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "言语 的反向链接列表"
+              "title": "AIGC应用实战-提示词工程 的反向链接列表"
             }
           },
           {
-            "id": "ccc758ac3016a254",
+            "id": "582ca825ef9c5c6f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JeremyLin'sHub/考公/言语.md",
+                "file": "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "言语 的出链列表"
+              "title": "AIGC应用实战-提示词工程 的出链列表"
             }
           },
           {
-            "id": "1793c3a75fbf690a",
+            "id": "637f668895e6eca0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,28 +138,18 @@
             }
           },
           {
-            "id": "26d90b845ceb2716",
+            "id": "1013dd38d7180774",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "JeremyLin'sHub/考公/言语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
-            }
-          },
-          {
-            "id": "e750004faac3189b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "言语 的大纲"
             }
           }
         ],
@@ -166,31 +157,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "548b744adff4bbea",
+  "active": "3a0022fad13cf7e3",
   "lastOpenFiles": [
-    "JeremyLin'sHub/2025年教师岗前培训.md",
-    "JeremyLin'sHub/考公/数量关系.md",
     "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
-    "JeremyLin'sHub/运维笔记.md",
     "JeremyLin'sHub/教务处/学科体系建设.md",
-    "JeremyLin'sHub/教材/人工智能通识教材",
-    "JeremyLin'sHub/教材",
     "JeremyLin'sHub/考公/言语.md",
-    "JeremyLin'sHub/教务处",
-    "未命名"
+    "JeremyLin'sHub/考公/数量关系.md",
+    "JeremyLin'sHub/运维笔记.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
