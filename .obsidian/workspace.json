@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "392721e28eeac7f3",
+        "id": "267e19d376eb0549",
         "type": "tabs",
         "children": [
           {
-            "id": "d2955c23708307a1",
+            "id": "c33cad7b6ba7ac12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,12 +169,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3a0022fad13cf7e3",
+  "active": "c33cad7b6ba7ac12",
   "lastOpenFiles": [
-    "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
-    "JeremyLin'sHub/教务处/学科体系建设.md",
-    "JeremyLin'sHub/考公/言语.md",
     "JeremyLin'sHub/考公/数量关系.md",
+    "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
+    "JeremyLin'sHub/考公/言语.md",
+    "JeremyLin'sHub/教务处/学科体系建设.md",
     "JeremyLin'sHub/运维笔记.md",
     "conflict-files-obsidian-git.md"
   ]
