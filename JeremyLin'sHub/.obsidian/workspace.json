@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考公/言语.md",
+                "file": "教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "言语"
+              "title": "AIGC应用实战-提示词工程"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考公/言语.md",
+                "file": "教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "言语 的反向链接列表"
+              "title": "AIGC应用实战-提示词工程 的反向链接列表"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,13 +178,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6ce737c73c86312c",
+  "active": "40209c39c0fa14d9",
   "lastOpenFiles": [
+    "考公/数量关系.md",
+    "考公/言语.md",
     "教务处/学科体系建设.md",
     "教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
     "教材/人工智能通识教材",
     "教材",
-    "考公/言语.md",
     "教务处",
     "0. 周期笔记/2023/Daily/06/2023-06-03.md",
     "0. 周期笔记/2023/Daily/06/2023-06-01.md",
@@ -217,7 +218,6 @@
     "3. 资源/知识管理",
     "3. 资源/Template.md",
     "3. 资源/README.md",
-    "2. 领域/父母关系/父母关系.README.md",
     "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/warning.svg",
     "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/warning.png",
     "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/rollup-logo.svg",
