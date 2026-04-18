@@ -11,10 +11,14 @@
             "id": "9cf4341b138ac676",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "运维笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "运维笔记"
             }
           }
         ]
@@ -165,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -173,8 +178,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a70a81222d657bdd",
+  "active": "9cf4341b138ac676",
   "lastOpenFiles": [
+    "运维笔记.md",
     "未命名.canvas",
     "教务处/学科体系建设.md",
     "考公/言语.md",
