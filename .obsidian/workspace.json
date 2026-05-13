@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "267e19d376eb0549",
+        "id": "305f0d2ae338374d",
         "type": "tabs",
         "children": [
           {
-            "id": "c33cad7b6ba7ac12",
+            "id": "b39de18e68e6d8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JeremyLin'sHub/考公/逻辑推理.md",
+                "file": "JeremyLin'sHub/公考行测/99-Templates/方法卡模板.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "逻辑推理"
+              "title": "方法卡模板"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JeremyLin'sHub/考公/逻辑推理.md",
+                "file": "JeremyLin'sHub/公考行测/99-Templates/方法卡模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "逻辑推理 的大纲"
+              "title": "方法卡模板 的大纲"
             }
           }
         ],
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,24 +166,49 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c33cad7b6ba7ac12",
+  "active": "b39de18e68e6d8e9",
   "lastOpenFiles": [
-    "未命名.base",
+    "JeremyLin'sHub/公考行测/99-Templates/周复盘模板.md",
+    "JeremyLin'sHub/公考行测/01-错题库/言语理解/山西24-15.md",
+    "JeremyLin'sHub/公考行测/01-错题库/常识判断/未命名.md",
+    "JeremyLin'sHub/公考行测/01-错题库/言语理解/未命名",
+    "JeremyLin'sHub/公考行测/00-Dashboard/行测错题看板.md",
+    "JeremyLin'sHub/公考行测/00-Dashboard/行测每日看板.md",
+    "JeremyLin'sHub/公考行测/00-Dashboard/行测总看板.md",
+    "JeremyLin'sHub/公考行测/codex/prompts/weekly_review.md",
+    "JeremyLin'sHub/公考行测/codex/prompts/review_single_question.md",
+    "JeremyLin'sHub/公考行测/codex/prompts/generate_drill_plan.md",
+    "JeremyLin'sHub/公考行测/99-Templates/方法卡模板.md",
+    "JeremyLin'sHub/公考行测/codex/SKILL.md",
+    "JeremyLin'sHub/公考行测/02-方法卡/政治理论",
+    "JeremyLin'sHub/公考行测/01-错题库/政治理论",
+    "JeremyLin'sHub/公考行测/00-Dashboard/未命名",
+    "JeremyLin'sHub/公考行测/00-Dashboard/xin c.md",
+    "JeremyLin'sHub/公考行测/00-Dashboard/月复盘.md",
+    "JeremyLin'sHub/公考行测/00-Dashboard/周复盘.md",
+    "JeremyLin'sHub/运维笔记.md",
+    "JeremyLin'sHub/公考行测/03-错因库/方法误用.md",
+    "未命名",
+    "JeremyLin'sHub/公考行测/99-Templates/行测错题模板.md",
     "未命名 1.base",
-    "未命名.canvas",
+    "JeremyLin'sHub/公考行测/04-训练计划/高频错因清单.md",
+    "JeremyLin'sHub/公考行测/04-训练计划/七天回炉.md",
+    "JeremyLin'sHub/公考行测/04-训练计划/每日训练.md",
+    "JeremyLin'sHub/公考行测/03-错因库/选项陷阱.md",
+    "JeremyLin'sHub/公考行测/03-错因库/时间压力.md",
+    "JeremyLin'sHub/公考行测/03-错因库/计算错误.md",
+    "JeremyLin'sHub/公考行测/03-错因库/知识点缺失.md",
+    "JeremyLin'sHub/公考行测/03-错因库/审题错误.md",
+    "JeremyLin'sHub/公考行测/codex/prompts",
+    "JeremyLin'sHub/公考行测/02-方法卡/资料分析",
+    "JeremyLin'sHub/公考行测/02-方法卡/言语理解",
+    "JeremyLin'sHub/公考行测/02-方法卡/数量关系",
     "JeremyLin'sHub/考公/言语.md",
     "JeremyLin'sHub/Attachments/Pasted image 20260418155116.png",
-    "JeremyLin'sHub/Attachments",
-    "JeremyLin'sHub/考公/逻辑推理.md",
-    "JeremyLin'sHub/考公/资料分析.md",
-    "JeremyLin'sHub/考公/政治理论&常识.md",
-    "JeremyLin'sHub/教材/人工智能通识教材/AIGC应用实战-提示词工程.md",
-    "JeremyLin'sHub/考公/数量关系.md",
-    "JeremyLin'sHub/教务处/学科体系建设.md",
-    "JeremyLin'sHub/运维笔记.md",
-    "conflict-files-obsidian-git.md"
+    "未命名.canvas"
   ]
 }
