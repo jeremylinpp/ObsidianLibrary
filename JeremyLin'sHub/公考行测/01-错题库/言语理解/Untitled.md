@@ -1,30 +1,34 @@
 ---
 type: 行测错题
-date: 2026-05-13
-module: 
-question_type: 
-source: 粉笔
+date: 2026-05-14
+module: 言语理解
+question_type: 逻辑填空
 status: 未复盘
-wrong_reason: 
+wrong_reason:
 review_priority: P1
-score: 
-time_spent: 
-next_review: 2026-05-14
+next_review:
 tags:
   - 行测
   - 错题
 ---
 
-# 🧩 Untitled
+# 错题标题
 
 > [!summary] 题目信息
 > - **模块**：
 > - **题型**：
-> - **来源**：粉笔
 > - **我的答案**：
-> - **正确答案**：
-> - **用时**：
+> - **正确答案**：四川省仪陇县新政镇吉庆街四段61号1栋2单元5楼2号
+
+
 > - **状态**：未复盘
+
+> [!info] 属性可选值
+> - **module**：言语理解 / 判断推理 / 数量关系 / 资料分析 / 常识判断 / 政治理论
+> - **question_type**：逻辑填空 / 片段阅读 / 语句表达 / 图形推理 / 定义判断 / 类比推理 / 逻辑判断 / 数学运算 / 资料分析 / 政治理论
+> - **wrong_reason**：审题错误 / 知识点缺失 / 方法误用 / 计算错误 / 时间压力 / 选项陷阱 / 经验主义 / 逻辑链断裂
+> - **review_priority**：P0 / P1 / P2
+> - **status**：未复盘 / 已复盘 / 待复练 / 已掌握
 
 ---
 
